@@ -1,3 +1,15 @@
+sincostandra:
+  name: Utandra Nur Ahmad Jais
+  title: Professional Procrastinators
+  url: https://github.com/sincostandra
+  image_url: https://github.com/sincostandra.png
+
+torvalds:
+  name: Linus Torvalds
+  title: Linux
+  url: https://github.com/torvalds
+  image_url: https://github.com/torvalds.png
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
